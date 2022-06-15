@@ -1,0 +1,26 @@
+---
+title: "Welcome to my Blog"
+description: |
+  Attempting to track my learning journey through health data science. 
+author:
+  - name: Ivana deng
+date: 2022-06-15
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I've had quite the convoluted career path having completed a Bachelor of Veterinary Medicine and Surgery and working in general practice for several years I quickly realised this career was not going to be sustainable for me. I took a sharp turn out into the humanities sector working in the arts, running events, working in communication and marketing roles moving into State Government in policy and strategy roles. When I returned to work after having kids I began to miss using the sTEM side of my brain and wanted to switch into something a little more technical.  
+ 
+In 2019 I had no idea what data science was. It wasn't until after a few timely conversations that I started to understand the scope and potential in this field. Given my experience, I was particularly interested in leveraging data science within the health sector particularly in the areas where population health and government policy intersect.  
+
+That was the start of my journey into health data science. I started my Masters with UNSW in 2020 and am balancing part time study load with full time work at the WA Data Science Innovation Hub. Since starting at WADSIH, my exposure to this area has increased exponentially and I'm on a very steep learning curve trying to keep up with all the amazing, exciting and revolutionary things happening in this field both in the health sector and beyond.  
+
+I hope you'll be able to join me on my learning journey. Let's unveil data science together. 
+
+

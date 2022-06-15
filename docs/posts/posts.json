@@ -1,19 +1,36 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Health Data Science Blog",
-    "description": "Welcome to our new blog, My Health Data Science Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2022-06-15-welcome-to-my-blog/",
+    "title": "Welcome to my Blog",
+    "description": "Attempting to track my learning journey through health data science.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Ivana deng",
+        "url": {}
+      }
+    ],
+    "date": "2022-06-15",
+    "categories": [],
+    "contents": "\r\nI’ve had quite the convoluted career path having completed a Bachelor\r\nof Veterinary Medicine and Surgery and working in general practice for\r\nseveral years I quickly realised this career was not going to be\r\nsustainable for me. I took a sharp turn out into the humanities sector\r\nworking in the arts, running events, working in communication and\r\nmarketing roles moving into State Government in policy and strategy\r\nroles. When I returned to work after having kids I began to miss using\r\nthe sTEM side of my brain and wanted to switch into something a little\r\nmore technical.\r\nIn 2019 I had no idea what data science was. It wasn’t until after a\r\nfew timely conversations that I started to understand the scope and\r\npotential in this field. Given my experience, I was particularly\r\ninterested in leveraging data science within the health sector\r\nparticularly in the areas where population health and government policy\r\nintersect.\r\nThat was the start of my journey into health data science. I started\r\nmy Masters with UNSW in 2020 and am balancing part time study load with\r\nfull time work at the WA Data Science Innovation Hub. Since starting at\r\nWADSIH, my exposure to this area has increased exponentially and I’m on\r\na very steep learning curve trying to keep up with all the amazing,\r\nexciting and revolutionary things happening in this field both in the\r\nhealth sector and beyond.\r\nI hope you’ll be able to join me on my learning journey. Let’s unveil\r\ndata science together.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-06-15T20:35:03+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Health Data Science Blog",
+    "description": "Welcome to my Health Data Science Blog. I hope you enjoy \nreading what I have to say!",
+    "author": [
+      {
+        "name": "Ivana Deng",
+        "url": {}
       }
     ],
     "date": "2022-06-15",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-06-15T15:51:49+08:00",
+    "last_modified": "2022-06-15T20:39:01+08:00",
     "input_file": {}
   }
 ]
